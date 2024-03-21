@@ -90,8 +90,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'postgres',
-        'USER': 'omar
-        server',
+        'USER': 'omarserver',
         'PASSWORD': 'Omarserver2002',
         'HOST': 'omar-server.postgres.database.azure.com',
         'PORT': '5432',
